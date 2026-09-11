@@ -1,7 +1,5 @@
 # 🌐 Mashuq Shaik — Developer Portfolio
 
-![Portfolio Preview](./git-image.png)
-
 A clean, modern, and responsive personal portfolio website showcasing my projects, technical skill set, and contact details.
 
 ---
